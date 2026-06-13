@@ -1027,8 +1027,10 @@ a.contact__item:hover {
 }
 
 .footer__brand img {
-  height: 50px;
+  height: auto;
+  width: 200px; /* Ajusta a 220px, 280px o 300px según te guste */
   margin-bottom: 16px;
+  display: block;
 }
 
 .footer__brand p {
